@@ -2,9 +2,9 @@
 :root{
     --branco:rgb(214, 15, 15);
     --cor-de-fundo:#0e6752d8;
-    --fundo-senha:#072f2a;
+    --fundo-senha:#0d8072;
     --fundo-texto:#0e635f;
-    --borda:#eb0808ce;
+    --borda:#0e0e0ece;
     --fonte-principal:'Intel One Mono';
 }
 body{
