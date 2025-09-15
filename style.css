@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&display=swap');
 :root{
     --branco:rgb(214, 15, 15);
-    --cor-de-fundo:#0c1a3a00;
-    --fundo-senha:#2a305038;
+    --cor-de-fundo:#0e6752d8;
+    --fundo-senha:#07483738;
     --fundo-texto:#c392921f;
-    --borda:#cba5a5a5;
+    --borda:#000000a5;
     --fonte-principal:'Intel One Mono';
 }
 body{
